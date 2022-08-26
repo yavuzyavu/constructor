@@ -1,0 +1,14 @@
+---PROGRAMCILIK BOLUMU SINAV OTURUMU---
+. Her ders için bir sınav yapılacaktır.
+• Bir öğrenci en az 3 derse kayıtlıdır. Bir öğrenci aynı anda 1'den fazla sınava giremez.
+ Ve bir dersten sınava giren bir öğrencinin başka derslerinin sınavları da aynı oturum saatine denk gelemez.
+. Hafta sonu sınav yapılmayacaktır.
+. Sınavlar ;
+   -"pazartesi 09:00", "pazartesi 14:00"
+   -"sali 09:00", "sali 14:00"
+   -"carsamba 09:00", "carsamba 14:00"
+   -"persembe 09:00", "persembe 14:00"
+   -"cuma 09:00", "cuma 14:00" oturum saatlerinde gerçekleştirilecektir.
+• Her sınava bir öğretmen gözetmenlik yapmalıdır. Bir öğretmen aynı anda iki sınava gözetmenlik yapamaz
+. Sınav yapılacak 6 adet sınıf vardır. Bir sınıfta aynı anda birden fazla sınav yapılamaz.
+NOT : Ogrenci, ögretmen ve ders bilgilerine ait dosyalar practice esnasında paylaşılacaktır.

@@ -1,0 +1,26 @@
+package day22_multiDimensionalArrays;
+
+public class C03_MdaIstenenSayilariYazdirma {
+    public static void main(String[] args) {
+        /*
+        Verilen 2 katli bir multi-dimensional array de outer index i ve inner index i ayni olan sayi
+        larin toplamini bulunuz
+        int [][]sayilar={{1,2,3,4,},{5,2},{3,4,5}};
+        [0][0] + [1][1] + [2][2]........
+         */
+
+        int [][]sayilar={{1,2,3,4,},{5,2},{3,4,5}};
+       int istenenToplam=0;
+
+        for (int i = 0; i <sayilar.length ; i++) {
+            for (int j = 0; j <sayilar[i].length ; j++) {
+
+        if(i==j){
+            istenenToplam+=sayilar[i][j];
+        }
+            }
+
+        }
+        System.out.println(istenenToplam);
+    }
+}
