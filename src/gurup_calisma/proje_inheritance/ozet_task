@@ -1,0 +1,19 @@
+/*
+    1-asagidaki hiyarasiye gore classlar creat ediniz...
+     sekil <--Cember
+     sekil <--Dikdortgen<--Kare
+    2- Turetilen class'a uygun olanlarina yaricap,  uzunluk ve genislik veriable'ler ekleyiniz.
+    3-Cember Dikdortgen Kare alan ve cevre hesaplamasi yaptirip sonuclari yazdiriniz.
+      INHERITANCE
+     * Inheritance sayesinde child class parent class'daki public ve protected primitive dataları objeleri
+       ve metotları problemsiz bir şekilde kullanabilir
+     * Child class hiçbir objeye ihtiyaç duymadan parent class'daki variable ve methodlara ulaşabilir
+     * Statik method ve variablelar inherit edilemezler. Gerek yoktur. Herkes ona ulaşabilir
+     * Bir classta constructor çalıştırdığımızda önce parent class'daki constructor çalışır.
+       Çünkü her constructorun ilk satırında süper keyword vardır görülmesede.
+     * Süper() parent class'dan constructor çağırmak için
+       this() içinde olunan classta başka bir constructor çağırmak için kullanılır
+
+     * Süper. parent classtan variable çağırmak için kullanılır
+       this. içinde bulunulan classtan variable çağırmak için kullanılır
+     * Süper. içinde bulunduğu classa bakmadan parent classa gider ve bir daha geri dönmez
