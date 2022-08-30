@@ -7,5 +7,7 @@ public class Soru1 {
         int sonuc=(sayi+sayi1);
         System.out.println(sonuc);
 
+        int sayi2=12;
+
     }
 }
