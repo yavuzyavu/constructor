@@ -9,6 +9,7 @@ public class C01_Pre_Post_Increment {
         /*
         bu iki işlem farkli iki işlem gercekleşir
         bu iki işlem icin sayi iki artirilacak
+        bu iki işlem icin sayi iki artirilacak
          */
     }
 }
